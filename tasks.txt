@@ -1,0 +1,7 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, Yes
+roman, Add new button, Add a filter button on the products list above the products, 29 Nov 2022, 26 Dec 2022, Yes
+smart, Restructure menu items for logged in users, Only admins should have access to register a new user and view statistics, 29 Nov 2022, 30 Nov 2022, No
+foster, Prototype for piper, Create a new prototype for the piper project and share with the team, 29 Nov 2022, 5 Dec 2022, No
+roman, New GitHub branch, Create a new GitHub branch named dev_updates for your new tasks., 9 Dec 2022, 10 Dec 2022, No
+admin, Changes needed for Task Manager app, The add_task module should not accept past date as due dates, 12 Dec 2022, 13 Dec 2022, Yes
